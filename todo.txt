@@ -1,0 +1,6 @@
+
+switch from fetch to axios
+loading, error pages loading state in api call
+fix error try catch , toastify
+fix imports and code structure import strudeture , arrow functions 
+
